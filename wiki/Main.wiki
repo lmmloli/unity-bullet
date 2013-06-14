@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is a Bullet physics engine integration in Unity.
+
+Currently it's using [https://code.google.com/p/bulletsharp/ BulletSharp]'s PInvoke branch. I'm considering adding an abstraction layer and introducing [https://code.google.com/p/bullet-xna/ bullet-xna]'s NoXna branch as alternative for webplayers and non pro users.
